@@ -1,3 +1,3 @@
-# hello-world
+# Subnet calculator
 another repository
-just typing and coding and coffee and nothing else
+subnet generator using python 
